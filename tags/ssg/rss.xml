@@ -10,8 +10,8 @@
       <title>Narno.com est un site Web statique : mais comment ?</title>
       <description><![CDATA[<p>Dans mon billet intitulé <a href="/blog/reboot-du-blog"><em>Reboot du blog</em></a> j'indiquais que <em>Narno.com</em> était maintenant un site statique : mais en pratique, comment ça marche ?</p>
 <!-- break -->
-<h2>Qu'appelle-t-on un "site statique" ?</h2>
-<p>Un site Web peut-être qualifié de "site statique" quand il répond aux caractéristiques suivantes :</p>
+<h2>Qu'appelle-t-on un &quot;site statique&quot; ?</h2>
+<p>Un site Web peut-être qualifié de &quot;site statique&quot; quand il répond aux caractéristiques suivantes :</p>
 <ol>
 <li>il est généré à la demande lorsque le contenu (pages, billets de blog) ou le contenant (templates, feuilles de styles) est modifié.</li>
 <li>le site généré peut-être servi par un serveur Web, sans besoin d'interpréter un language de programmation côté serveur, ni de consommer une base de données.</li>
@@ -44,7 +44,7 @@
 <p><img src="/images/new-plan-static-site-first.jpg" alt="" /></p>
 <span id="more"></span>
 <p>Maintenant, je n'ai plus à me tracasser de l'application des patchs de sécurité de <a href="/tags/drupal">Drupal</a>, ni du risque de perdre ou de corrompre la BDD MySQL.
-J'ai beaucoup aimé "jouer" avec <a href="/tags/drupal">Drupal</a>, mais il faut admettre qu'utiliser cette solution pour un petit blog, à peine dynamique, c'est d'avantage une contrainte qu'un outil.</p>
+J'ai beaucoup aimé &quot;jouer&quot; avec <a href="/tags/drupal">Drupal</a>, mais il faut admettre qu'utiliser cette solution pour un petit blog, à peine dynamique, c'est d'avantage une contrainte qu'un outil.</p>
 <p><strong><em>Narno.com</em> est propulsé par :</strong></p>
 <ul>
 <li><a href="https://github.com/Narno/narno.com">GitHub</a> : stockage, versionning des fichiers et hébergement</li>
@@ -56,7 +56,7 @@ J'ai beaucoup aimé "jouer" avec <a href="/tags/drupal">Drupal</a>, mais il faut
 <p><strong>Notes :</strong></p>
 <ol>
 <li>L'ancienne version, motorisée par Drupal, reste disponible à l'adresse suivante : <a href="http://drupal.narno.com">http://drupal.narno.com</a></li>
-<li>Les billets traitant de <a href="/tags/magento/">Magento</a> ont été déplacés vers mon <a href="http://arnaudligny.fr/blog/" title="Le blog de Arnaud Ligny">blog "pro"</a>.</li>
+<li>Les billets traitant de <a href="/tags/magento/">Magento</a> ont été déplacés vers mon <a href="http://arnaudligny.fr/blog/" title="Le blog de Arnaud Ligny">blog &quot;pro&quot;</a>.</li>
 </ol>]]></description>
       <pubDate>2017-01-08T18:33:00+01:00</pubDate>
       <link>https://drafts.narno.com/blog/reboot-du-blog/</link>

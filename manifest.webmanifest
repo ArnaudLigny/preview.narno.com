@@ -1,0 +1,16 @@
+{
+  "name": "Narno.com (drafts)",
+  "short_name": "Narno.com (drafts)",
+  "description": "Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.",
+  "display": "standalone",
+  "start_url": "/",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#202020",
+  "lang": "fr",
+  "dir": "ltr",
+  "icons": [{
+    "src": "/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]}

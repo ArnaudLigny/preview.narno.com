@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Narno.com (drafts) - SSG</title>
+    <title>Narno.com (preview) - SSG</title>
     <description><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></description>
     <lastBuildDate>2017-10-25T02:00:00+02:00</lastBuildDate>
-    <link>https://drafts.narno.com/tags/ssg/</link>
+    <link>https://preview.narno.com/tags/ssg/</link>
     <item>
-      <guid>https://drafts.narno.com/blog/site-statique-mais-comment/</guid>
+      <guid>https://preview.narno.com/blog/site-statique-mais-comment/</guid>
       <title>Narno.com est un site Web statique : mais comment ?</title>
       <description><![CDATA[<p>Dans mon billet intitulé <a href="/blog/reboot-du-blog"><em>Reboot du blog</em></a> j'indiquais que <em>Narno.com</em> était maintenant un site statique : mais en pratique, comment ça marche ?</p>
 <!-- break -->
@@ -30,10 +30,10 @@
 <p>Entrons maintenant dans le détail de la mise en oeuvre, les outils, les scripts, etc.</p>
 <h4>Le thème / les templates</h4>]]></description>
       <pubDate>2017-10-25T02:00:00+02:00</pubDate>
-      <link>https://drafts.narno.com/blog/site-statique-mais-comment/</link>
+      <link>https://preview.narno.com/blog/site-statique-mais-comment/</link>
     </item>
     <item>
-      <guid>https://drafts.narno.com/blog/reboot-du-blog/</guid>
+      <guid>https://preview.narno.com/blog/reboot-du-blog/</guid>
       <title>Reboot du blog ?</title>
       <description><![CDATA[<p>Comme on dit chez moi :</p>
 <blockquote>
@@ -59,7 +59,7 @@ J'ai beaucoup aimé &quot;jouer&quot; avec <a href="/tags/drupal">Drupal</a>, ma
 <li>Les billets traitant de <a href="/tags/magento/">Magento</a> ont été déplacés vers mon <a href="http://arnaudligny.fr/blog/" title="Le blog de Arnaud Ligny">blog &quot;pro&quot;</a>.</li>
 </ol>]]></description>
       <pubDate>2017-01-08T18:33:00+01:00</pubDate>
-      <link>https://drafts.narno.com/blog/reboot-du-blog/</link>
+      <link>https://preview.narno.com/blog/reboot-du-blog/</link>
     </item>
   </channel>
 </rss>

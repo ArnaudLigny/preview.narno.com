@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Narno.com (drafts) - Photos</title>
+    <title>Narno.com (preview) - Photos</title>
     <description><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></description>
     <lastBuildDate>2009-01-24T01:00:00+01:00</lastBuildDate>
-    <link>https://drafts.narno.com/tags/photos/</link>
+    <link>https://preview.narno.com/tags/photos/</link>
     <item>
-      <guid>https://drafts.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</guid>
+      <guid>https://preview.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</guid>
       <title>Picasa vers Flickr : importer vos photos simplement</title>
       <description><![CDATA[<p>J'utilise <a href="http://picasa.google.com/">Picasa</a> pour gérer mes albums photos : application propre et clair, système d'import depuis n'importe quel APN, navigation fluide et moteur de recherche made in Google.</p>
 <p>De l'autre, j'utilise <a href="http://www.flickr.com/tools/">Flickr</a> pour la gestion et la publication online de mes photos. Flickr est pour moi la meilleur solution en ligne (pour 24 euros/an dans sa version <a href="http://www.flickr.com/upgrade/">Pro</a>).
@@ -30,7 +30,7 @@ Non, car depuis la version 3 de Picasa, <a href="http://picasa2flickr.sourceforg
 </ol>
 <p>Depuis Picasa 3, l'opération s'est nettement simplifiée, alors n'hésitez plus ! :-)</p>]]></description>
       <pubDate>2009-01-24T01:00:00+01:00</pubDate>
-      <link>https://drafts.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</link>
+      <link>https://preview.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</link>
     </item>
   </channel>
 </rss>

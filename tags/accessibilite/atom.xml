@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://drafts.narno.com/tags/accessibilite/</id>
-  <title>Narno.com (drafts) - Accessibilité</title>
+  <id>https://preview.narno.com/tags/accessibilite/</id>
+  <title>Narno.com (preview) - Accessibilité</title>
   <subtitle><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></subtitle>
-  <link href="https://drafts.narno.com/tags/accessibilite/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drafts.narno.com/tags/accessibilite/" rel="alternate" type="text/html" />
+  <link href="https://preview.narno.com/tags/accessibilite/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://preview.narno.com/tags/accessibilite/" rel="alternate" type="text/html" />
   <updated>2007-12-12T01:00:00+01:00</updated>
   <author>
     <name>Arnaud Ligny</name>
     <uri>https://arnaudligny.fr</uri>
   </author>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/paris-web-2007-jy-suis-passe/</id>
+    <id>https://preview.narno.com/blog/paris-web-2007-jy-suis-passe/</id>
     <title>Paris Web 2007 : j'y suis passé !</title>
     <content type="html">
       <![CDATA[<p>J'étais à <a href="https://www.paris-web.fr/2007/">Paris Web 2007</a> pour la journée &quot;libre&quot; : pas de conférences mais des ateliers.</p>
@@ -26,7 +26,7 @@ Si vous souhaitez en savoir beaucoup plus, je vous invite à lire la série d'ar
 <p>Note : <a href="https://www.paris-web.fr/2007/Presentations-des-intervenants.html">les présentations des intervenants de Paris Web 2007 sont en ligne</a>.</p>
 <p><em>Photo de <a href="https://www.flickr.com/photos/miaouss/2260346562/">Xuan NGUYEN</a>.</em></p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/paris-web-2007-jy-suis-passe/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/paris-web-2007-jy-suis-passe/" rel="alternate" type="text/html" />
     <published>2007-12-12T01:00:00+01:00</published>
     <updated>2007-12-12T01:00:00+01:00</updated>
   </entry>

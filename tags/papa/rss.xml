@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Narno.com (drafts) - Papa</title>
+    <title>Narno.com (preview) - Papa</title>
     <description><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></description>
     <lastBuildDate>2020-01-05T01:00:00+01:00</lastBuildDate>
-    <link>https://drafts.narno.com/tags/papa/</link>
+    <link>https://preview.narno.com/tags/papa/</link>
     <item>
-      <guid>https://drafts.narno.com/blog/bot-slack-rappel-enfant/</guid>
+      <guid>https://preview.narno.com/blog/bot-slack-rappel-enfant/</guid>
       <title>Un bot pour ne plus oublier son enfant à l’école !</title>
       <description><![CDATA[<p>to do</p>
 <p><img src="/images/leo-bot-demo.png" alt="" loading="lazy" /></p>]]></description>
       <pubDate>2020-01-05T01:00:00+01:00</pubDate>
-      <link>https://drafts.narno.com/blog/bot-slack-rappel-enfant/</link>
+      <link>https://preview.narno.com/blog/bot-slack-rappel-enfant/</link>
     </item>
   </channel>
 </rss>

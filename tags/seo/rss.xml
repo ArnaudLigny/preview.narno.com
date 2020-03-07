@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Narno.com (drafts) - SEO</title>
+    <title>Narno.com (preview) - SEO</title>
     <description><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></description>
     <lastBuildDate>2009-01-31T01:00:00+01:00</lastBuildDate>
-    <link>https://drafts.narno.com/tags/seo/</link>
+    <link>https://preview.narno.com/tags/seo/</link>
     <item>
-      <guid>https://drafts.narno.com/blog/seo-pour-drupal/</guid>
+      <guid>https://preview.narno.com/blog/seo-pour-drupal/</guid>
       <title>SEO pour Drupal</title>
       <description><![CDATA[<p>Sortie de boite, Drupal est construit de manière à assurrer un bon référencement naturel. Il est nénamoins nécessaire d'utiliser un template bien structuré (via des zones de scrawl ordonnées) et d'appliquer quelques configurations et autre modules adaptés.</p>
 <p>Je vais présenter ici quelques optimisations à déployer sur votre site Drupal :</p>
@@ -78,7 +78,7 @@ Pour remédier à cela, il est conseillé de modifier le fichier <code>robots.tx
 <pre><code class="language-apache">RewriteCond %{HTTP_HOST} ^(www.)?narno\.com$ [NC]
 RewriteRule ^(.+)/$ http://%{HTTP_HOST}/$1 [R=301,L]</code></pre>]]></description>
       <pubDate>2009-01-31T01:00:00+01:00</pubDate>
-      <link>https://drafts.narno.com/blog/seo-pour-drupal/</link>
+      <link>https://preview.narno.com/blog/seo-pour-drupal/</link>
     </item>
   </channel>
 </rss>

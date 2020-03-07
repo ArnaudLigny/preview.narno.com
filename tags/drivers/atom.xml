@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://drafts.narno.com/tags/drivers/</id>
-  <title>Narno.com (drafts) - Drivers</title>
+  <id>https://preview.narno.com/tags/drivers/</id>
+  <title>Narno.com (preview) - Drivers</title>
   <subtitle><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></subtitle>
-  <link href="https://drafts.narno.com/tags/drivers/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drafts.narno.com/tags/drivers/" rel="alternate" type="text/html" />
+  <link href="https://preview.narno.com/tags/drivers/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://preview.narno.com/tags/drivers/" rel="alternate" type="text/html" />
   <updated>2008-01-02T01:00:00+01:00</updated>
   <author>
     <name>Arnaud Ligny</name>
     <uri>https://arnaudligny.fr</uri>
   </author>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</id>
+    <id>https://preview.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</id>
     <title>Soltek QBic EQ3401 : le kit de survie</title>
     <content type="html">
       <![CDATA[<p>En faisant un peu de rangement dans <em>Mes Docmeunts</em>, j'ai retrouvé une archive de secours utile en cas de réinstallation de mon mini-pc : le <a href="https://web.archive.org/web/20051210155610/http://www.matbe.com/articles/lire/149/soltek-qbic-eq3401m-etudie-pour-le-silence/">Soltek QBic EQ3401</a>.</p>
@@ -28,7 +28,7 @@
 <li>VGA (865G-WIN2KXP)</li>
 </ul>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/" rel="alternate" type="text/html" />
     <published>2008-01-02T01:00:00+01:00</published>
     <updated>2008-01-02T01:00:00+01:00</updated>
   </entry>

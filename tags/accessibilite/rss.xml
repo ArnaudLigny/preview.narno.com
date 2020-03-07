@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Narno.com (drafts) - Accessibilité</title>
+    <title>Narno.com (preview) - Accessibilité</title>
     <description><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></description>
     <lastBuildDate>2007-12-12T01:00:00+01:00</lastBuildDate>
-    <link>https://drafts.narno.com/tags/accessibilite/</link>
+    <link>https://preview.narno.com/tags/accessibilite/</link>
     <item>
-      <guid>https://drafts.narno.com/blog/paris-web-2007-jy-suis-passe/</guid>
+      <guid>https://preview.narno.com/blog/paris-web-2007-jy-suis-passe/</guid>
       <title>Paris Web 2007 : j'y suis passé !</title>
       <description><![CDATA[<p>J'étais à <a href="https://www.paris-web.fr/2007/">Paris Web 2007</a> pour la journée &quot;libre&quot; : pas de conférences mais des ateliers.</p>
 <p><img src="/images/photos/paris-web-2007.jpg" alt="" loading="lazy" /></p>
@@ -20,7 +20,7 @@ Si vous souhaitez en savoir beaucoup plus, je vous invite à lire la série d'ar
 <p>Note : <a href="https://www.paris-web.fr/2007/Presentations-des-intervenants.html">les présentations des intervenants de Paris Web 2007 sont en ligne</a>.</p>
 <p><em>Photo de <a href="https://www.flickr.com/photos/miaouss/2260346562/">Xuan NGUYEN</a>.</em></p>]]></description>
       <pubDate>2007-12-12T01:00:00+01:00</pubDate>
-      <link>https://drafts.narno.com/blog/paris-web-2007-jy-suis-passe/</link>
+      <link>https://preview.narno.com/blog/paris-web-2007-jy-suis-passe/</link>
     </item>
   </channel>
 </rss>

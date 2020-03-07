@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Narno.com (drafts) - Drivers</title>
+    <title>Narno.com (preview) - Drivers</title>
     <description><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></description>
     <lastBuildDate>2008-01-02T01:00:00+01:00</lastBuildDate>
-    <link>https://drafts.narno.com/tags/drivers/</link>
+    <link>https://preview.narno.com/tags/drivers/</link>
     <item>
-      <guid>https://drafts.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</guid>
+      <guid>https://preview.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</guid>
       <title>Soltek QBic EQ3401 : le kit de survie</title>
       <description><![CDATA[<p>En faisant un peu de rangement dans <em>Mes Docmeunts</em>, j'ai retrouvé une archive de secours utile en cas de réinstallation de mon mini-pc : le <a href="https://web.archive.org/web/20051210155610/http://www.matbe.com/articles/lire/149/soltek-qbic-eq3401m-etudie-pour-le-silence/">Soltek QBic EQ3401</a>.</p>
 <p>Cette machine commence à vieillir et le site du constructeur (Soltek) est malheureusement fermé maintenant. Alors si comme moi vous l'utilisez encore, voici de quoi le réinstaller proprement :</p>
@@ -22,7 +22,7 @@
 <li>VGA (865G-WIN2KXP)</li>
 </ul>]]></description>
       <pubDate>2008-01-02T01:00:00+01:00</pubDate>
-      <link>https://drafts.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</link>
+      <link>https://preview.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</link>
     </item>
   </channel>
 </rss>

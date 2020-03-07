@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://drafts.narno.com/tags/photos/</id>
-  <title>Narno.com (drafts) - Photos</title>
+  <id>https://preview.narno.com/tags/photos/</id>
+  <title>Narno.com (preview) - Photos</title>
   <subtitle><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></subtitle>
-  <link href="https://drafts.narno.com/tags/photos/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drafts.narno.com/tags/photos/" rel="alternate" type="text/html" />
+  <link href="https://preview.narno.com/tags/photos/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://preview.narno.com/tags/photos/" rel="alternate" type="text/html" />
   <updated>2009-01-24T01:00:00+01:00</updated>
   <author>
     <name>Arnaud Ligny</name>
     <uri>https://arnaudligny.fr</uri>
   </author>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</id>
+    <id>https://preview.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</id>
     <title>Picasa vers Flickr : importer vos photos simplement</title>
     <content type="html">
       <![CDATA[<p>J'utilise <a href="http://picasa.google.com/">Picasa</a> pour gérer mes albums photos : application propre et clair, système d'import depuis n'importe quel APN, navigation fluide et moteur de recherche made in Google.</p>
@@ -36,7 +36,7 @@ Non, car depuis la version 3 de Picasa, <a href="http://picasa2flickr.sourceforg
 </ol>
 <p>Depuis Picasa 3, l'opération s'est nettement simplifiée, alors n'hésitez plus ! :-)</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/" rel="alternate" type="text/html" />
     <published>2009-01-24T01:00:00+01:00</published>
     <updated>2009-01-24T01:00:00+01:00</updated>
   </entry>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
-    <title>Narno.com (drafts) - PHP</title>
+    <title>Narno.com (preview) - PHP</title>
     <description><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></description>
     <lastBuildDate>2009-03-09T01:00:00+01:00</lastBuildDate>
-    <link>https://drafts.narno.com/tags/php/</link>
+    <link>https://preview.narno.com/tags/php/</link>
     <item>
-      <guid>https://drafts.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</guid>
+      <guid>https://preview.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</guid>
       <title>Migration d'un forum phpBB2 vers phpBB3</title>
       <description><![CDATA[<p>Ça aura été pénible mais j'ai réussi à migrer le <a href="http://www.kobuta.fr/forum">forum phpBB de Kobuta.fr</a> !</p>
 <h2>Petite introduction</h2>
@@ -57,10 +57,10 @@ En effet, la plupart des anciennes plateformes à la phpBB étaient déployées 
 <p>Bref, quand j'y pense, sans ces soucis d'encodage et les temps de chargement/traitement, ça aurait été plié en quelques minutes...</p>
 <p>Le résultat ici : <a href="http://www.kobuta.fr/forum">http://www.kobuta.fr/forum</a> :-)</p>]]></description>
       <pubDate>2009-03-09T01:00:00+01:00</pubDate>
-      <link>https://drafts.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</link>
+      <link>https://preview.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</link>
     </item>
     <item>
-      <guid>https://drafts.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</guid>
+      <guid>https://preview.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</guid>
       <title>eZ Publish 4.0 apporte le support PHP 5</title>
       <description><![CDATA[<blockquote>
 <p>La prochaine version de eZ Publish, 4.0, vient d'être publiée en alpha, avec le support attendu de PHP 5. Il est désormais possible de faire tourner le célèbre CMS sur une plate-forme PHP 5.</p>
@@ -71,7 +71,7 @@ En effet, la plupart des anciennes plateformes à la phpBB étaient déployées 
 <p>Celà reste un bon point pour les agences qui pourront faire leurs développements spécifique en PHP5.</p>
 <p>D'autre part, l'amélioration des performances des &quot;components&quot; ne sera pas négligeable non plus.</p>]]></description>
       <pubDate>2007-06-10T02:00:00+02:00</pubDate>
-      <link>https://drafts.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</link>
+      <link>https://preview.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</link>
     </item>
   </channel>
 </rss>

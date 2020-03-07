@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://drafts.narno.com/blog/</id>
-  <title>Narno.com (drafts) - Blog</title>
+  <id>https://preview.narno.com/blog/</id>
+  <title>Narno.com (preview) - Blog</title>
   <subtitle><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></subtitle>
-  <link href="https://drafts.narno.com/blog/atom.xml" rel="self" type="application/atom+xml" />
-  <link href="https://drafts.narno.com/blog/" rel="alternate" type="text/html" />
+  <link href="https://preview.narno.com/blog/atom.xml" rel="self" type="application/atom+xml" />
+  <link href="https://preview.narno.com/blog/" rel="alternate" type="text/html" />
   <updated>2020-01-05T01:00:00+01:00</updated>
   <author>
     <name>Arnaud Ligny</name>
     <uri>https://arnaudligny.fr</uri>
   </author>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/bot-slack-rappel-enfant/</id>
+    <id>https://preview.narno.com/blog/bot-slack-rappel-enfant/</id>
     <title>Un bot pour ne plus oublier son enfant à l’école !</title>
     <content type="html">
       <![CDATA[<p>to do</p>
 <p><img src="/images/leo-bot-demo.png" alt="" loading="lazy" /></p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/bot-slack-rappel-enfant/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/bot-slack-rappel-enfant/" rel="alternate" type="text/html" />
     <published>2020-01-05T01:00:00+01:00</published>
     <updated>2020-01-05T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/velo-cargo-bullitt-ya-quoi-dans-le-carton/</id>
+    <id>https://preview.narno.com/blog/velo-cargo-bullitt-ya-quoi-dans-le-carton/</id>
     <title>Vélo cargo Bullitt : ya quoi dans le carton ?</title>
     <content type="html">
       <![CDATA[<p>Si vous me suivez sur <a href="https://twitter.com/Narno">Twitter</a> vous savez déjà que j'ai enfin pu m'offrir un super joujou / utilitaire : le magnifique <a href="https://www.larryvsharry.com/">Bullitt Bluebird de Larry vs Harry</a> !</p>
@@ -73,12 +73,12 @@
 <p>J’essaierai de détailler un peu plus le montage dans un autre billet.</p>
 <p>Retenez que ça reste très facile, y compris pour un néophyte, d’autant plus une fois qu’on a mis la main sur le <a href="https://www.dropbox.com/s/dn2dmlgpumy79u9/Bullitt%20manual%202018%20NL.pdf?dl=0">manuel officiel</a> après 1 heure de montage ! 😄</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/velo-cargo-bullitt-ya-quoi-dans-le-carton/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/velo-cargo-bullitt-ya-quoi-dans-le-carton/" rel="alternate" type="text/html" />
     <published>2019-05-18T02:00:00+02:00</published>
     <updated>2019-05-18T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/chrome-open-new-tab-after-current-tab/</id>
+    <id>https://preview.narno.com/blog/chrome-open-new-tab-after-current-tab/</id>
     <title>Chrome : ouvrir un nouvel onglet après l'onglet actif</title>
     <content type="html">
       <![CDATA[<p>Par défaut, Google Chrome ouvre un nouvel onglet à la fin de la rangée d'onglets : ce n'est pas toujours intuitif.</p>
@@ -89,12 +89,12 @@
 <p><a href="https://github.com/Narno/Open-New-Tab-After-Current-Tab#open-new-tab-after-current-tab"><strong><em>Open New Tab After Current Tab</em></strong></a> est disponible sur le <a href="https://chrome.google.com/webstore/detail/open-new-tab-after-curren/mmcgnaachjapbbchcpjihhgjhpfcnoan">Chrome Web Sore</a>, et son code source peut être consulté sur <a href="https://github.com/Narno/Open-New-Tab-After-Current-Tab">GitHub</a>.</p>
 </blockquote>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/chrome-open-new-tab-after-current-tab/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/chrome-open-new-tab-after-current-tab/" rel="alternate" type="text/html" />
     <published>2019-05-10T02:00:00+02:00</published>
     <updated>2019-05-10T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/facebook-notifier/</id>
+    <id>https://preview.narno.com/blog/facebook-notifier/</id>
     <title>Notificateur Facebook pour navigateur web</title>
     <content type="html">
       <![CDATA[<p>Je n'utilise quasiment plus Facebook, néanmoins je souhaite savoir ce qui s'y passe ou plutôt : <strong>je souhaite être notifié quand un amis ou un contact m'identifie sur une photo ou m'envoie un message</strong>.</p>
@@ -106,22 +106,22 @@
 <p><a href="https://github.com/Narno/F-Notifier#f-notifier"><strong><em>F-Notifier</em></strong></a> est disponible à la fois pour <a href="https://chrome.google.com/webstore/detail/f-notifier/befpdcighpikpkklmfonkmdafmfnnkfn">Google Chrome</a> et pour <a href="https://addons.mozilla.org/fr/firefox/addon/f-notifier/">Mozilla Firefox</a>, et son code source peut être consulté sur <a href="https://github.com/Narno/F-Notifier">GitHub</a>.</p>
 </blockquote>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/facebook-notifier/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/facebook-notifier/" rel="alternate" type="text/html" />
     <published>2019-05-06T02:00:00+02:00</published>
     <updated>2019-05-06T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/ans-de-velotaf/</id>
+    <id>https://preview.narno.com/blog/ans-de-velotaf/</id>
     <title>3 ans de vélotaf</title>
     <content type="html">
       <![CDATA[<p>3 ans, ça fait maintenant 3 ans que je vélotaf chaque jour ! \o/</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/ans-de-velotaf/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/ans-de-velotaf/" rel="alternate" type="text/html" />
     <published>2019-01-03T01:00:00+01:00</published>
     <updated>2019-01-03T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/site-statique-mais-comment/</id>
+    <id>https://preview.narno.com/blog/site-statique-mais-comment/</id>
     <title>Narno.com est un site Web statique : mais comment ?</title>
     <content type="html">
       <![CDATA[<p>Dans mon billet intitulé <a href="/blog/reboot-du-blog"><em>Reboot du blog</em></a> j'indiquais que <em>Narno.com</em> était maintenant un site statique : mais en pratique, comment ça marche ?</p>
@@ -146,12 +146,12 @@
 <p>Entrons maintenant dans le détail de la mise en oeuvre, les outils, les scripts, etc.</p>
 <h4>Le thème / les templates</h4>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/site-statique-mais-comment/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/site-statique-mais-comment/" rel="alternate" type="text/html" />
     <published>2017-10-25T02:00:00+02:00</published>
     <updated>2017-10-25T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/pourquoi-ne-pas-juste-dire-merci/</id>
+    <id>https://preview.narno.com/blog/pourquoi-ne-pas-juste-dire-merci/</id>
     <title>Pourquoi ne pas juste dire « merci » ?</title>
     <content type="html">
       <![CDATA[<h2>Préambule</h2>
@@ -190,12 +190,12 @@ Pourquoi ne pas juste dire &quot;merci&quot; ?</p>
 </blockquote>
 <p>(<a href="http://yehudamoon.com/comic/2017-03-20/">Source du comics</a>)</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/pourquoi-ne-pas-juste-dire-merci/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/pourquoi-ne-pas-juste-dire-merci/" rel="alternate" type="text/html" />
     <published>2017-10-16T02:00:00+02:00</published>
     <updated>2017-10-16T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/lassee-des-incivilites-la-velosphere-se-rebiffe/</id>
+    <id>https://preview.narno.com/blog/lassee-des-incivilites-la-velosphere-se-rebiffe/</id>
     <title>Lassée des incivilités, la « vélosphère » se rebiffe</title>
     <content type="html">
       <![CDATA[<p><img src="/images/guerillavelo.jpg" alt="guerillavelo" loading="lazy" /></p>
@@ -210,12 +210,12 @@ Pourquoi ne pas juste dire &quot;merci&quot; ?</p>
 <p><a href="http://www.slate.fr/story/148782/velosphere-incivilites-guerilla">Lire l'article sur Slate.fr</a></p>
 <p>Illustration: <em>Une femme fait du vélo, le 3 juin 2010 sur une piste cyclable à Paris</em> David Fritz / AFP - Montage graphique Slate.fr</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/lassee-des-incivilites-la-velosphere-se-rebiffe/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/lassee-des-incivilites-la-velosphere-se-rebiffe/" rel="alternate" type="text/html" />
     <published>2017-07-25T02:00:00+02:00</published>
     <updated>2017-07-25T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/reboot-du-blog/</id>
+    <id>https://preview.narno.com/blog/reboot-du-blog/</id>
     <title>Reboot du blog ?</title>
     <content type="html">
       <![CDATA[<p>Comme on dit chez moi :</p>
@@ -242,33 +242,33 @@ J'ai beaucoup aimé &quot;jouer&quot; avec <a href="/tags/drupal">Drupal</a>, ma
 <li>Les billets traitant de <a href="/tags/magento/">Magento</a> ont été déplacés vers mon <a href="http://arnaudligny.fr/blog/" title="Le blog de Arnaud Ligny">blog &quot;pro&quot;</a>.</li>
 </ol>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/reboot-du-blog/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/reboot-du-blog/" rel="alternate" type="text/html" />
     <published>2017-01-08T18:33:00+01:00</published>
     <updated>2017-01-08T18:33:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/leo-est-ne/</id>
+    <id>https://preview.narno.com/blog/leo-est-ne/</id>
     <title>Léo est né !</title>
     <content type="html">
       <![CDATA[<p><img src="/images/photos/leo.jpg" alt="Léo est né !" loading="lazy" /></p>
 <p>Léo est né le 8 octobre. Nous nous portons très bien tous les 3 ! :-)</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/leo-est-ne/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/leo-est-ne/" rel="alternate" type="text/html" />
     <published>2012-10-12T02:00:00+02:00</published>
     <updated>2012-10-12T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/magento-ajouter-une-colonne-dans-une-grille/</id>
+    <id>https://preview.narno.com/blog/magento-ajouter-une-colonne-dans-une-grille/</id>
     <title>Magento : Ajouter une colonne dans une grille</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/magento-ajouter-une-colonne-dans-une-grille/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/magento-ajouter-une-colonne-dans-une-grille/" rel="alternate" type="text/html" />
     <published>2012-09-11T02:00:00+02:00</published>
     <updated>2012-09-11T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/installer-dayz-facilement/</id>
+    <id>https://preview.narno.com/blog/installer-dayz-facilement/</id>
     <title>Installer DayZ facilement</title>
     <content type="html">
       <![CDATA[<p><a href="http://dayzmod.com/"><em>DayZ Mod</em></a> est un mod (modification) du jeu <a href="http://www.arma2.com/">ARMA II</a>. Ce mod vous plonge dans un monde apocalyptique ou seule la survie compte et ou les zombies et les bandits ne vous épargnerons pas !</p>
@@ -278,42 +278,42 @@ J'ai beaucoup aimé &quot;jouer&quot; avec <a href="/tags/drupal">Drupal</a>, ma
 <p><img src="/images/DayZ-Mod-Installer-0.0.1.5.png" alt="Capture d&#039;écran" loading="lazy" /></p>
 <p><strong>Update septembre 2012 :</strong> Depuis la version 1.7.2.x, l'installer ne fonctionne plus car les fichiers du mod ont été packagés dans une unique archive. Si j'ai le courage, je prendai de temps de l'adapter.</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/installer-dayz-facilement/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/installer-dayz-facilement/" rel="alternate" type="text/html" />
     <published>2012-07-07T02:00:00+02:00</published>
     <updated>2012-07-07T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/telecharger-manuellement-une-extension-magento/</id>
+    <id>https://preview.narno.com/blog/telecharger-manuellement-une-extension-magento/</id>
     <title>Télécharger manuellement une extension Magento</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/telecharger-manuellement-une-extension-magento/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/telecharger-manuellement-une-extension-magento/" rel="alternate" type="text/html" />
     <published>2010-11-21T01:00:00+01:00</published>
     <updated>2010-11-21T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/verifier-la-validite-des-fichiers-de-configuration-xml-de-magento/</id>
+    <id>https://preview.narno.com/blog/verifier-la-validite-des-fichiers-de-configuration-xml-de-magento/</id>
     <title>Vérifier la validité des fichiers de configuration XML de Magento</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/verifier-la-validite-des-fichiers-de-configuration-xml-de-magento/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/verifier-la-validite-des-fichiers-de-configuration-xml-de-magento/" rel="alternate" type="text/html" />
     <published>2010-11-10T01:00:00+01:00</published>
     <updated>2010-11-10T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/utiliser-gettext-pour-traduire-vos-modules-magento/</id>
+    <id>https://preview.narno.com/blog/utiliser-gettext-pour-traduire-vos-modules-magento/</id>
     <title>Utiliser Gettext pour traduire vos modules Magento</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/utiliser-gettext-pour-traduire-vos-modules-magento/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/utiliser-gettext-pour-traduire-vos-modules-magento/" rel="alternate" type="text/html" />
     <published>2010-11-03T01:00:00+01:00</published>
     <updated>2010-11-03T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/drupal-7-avis-et-retour-dexperience/</id>
+    <id>https://preview.narno.com/blog/drupal-7-avis-et-retour-dexperience/</id>
     <title>Drupal 7 : avis et retour d'expérience</title>
     <content type="html">
       <![CDATA[<p>Drupal 7 est toujours en cours de développement (ou plutôt en cours de finition), néanmoins une version alpha à été publiée : l'occasion idéale de faire joujou avec la prochaine mouture de <a href="/tags/drupal">Drupal</a>.</p>
@@ -335,32 +335,32 @@ J'espère qu'après avoir lu ces différents billets vous aurez envie d'essayer 
 <li>Participer à la <a href="http://localize.drupal.org/translate/languages/fr/view?project=drupal&amp;status=0&amp;release=17706&amp;search=&amp;author=&amp;context=all&amp;limit=10">traduction de Drupal 7</a></li>
 </ul>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/drupal-7-avis-et-retour-dexperience/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/drupal-7-avis-et-retour-dexperience/" rel="alternate" type="text/html" />
     <published>2010-10-02T02:00:00+02:00</published>
     <updated>2010-10-02T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/modules-payant-pour-magento-attention-aux-arnaques/</id>
+    <id>https://preview.narno.com/blog/modules-payant-pour-magento-attention-aux-arnaques/</id>
     <title>Modules payant pour Magento attention aux arnaques !</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/modules-payant-pour-magento-attention-aux-arnaques/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/modules-payant-pour-magento-attention-aux-arnaques/" rel="alternate" type="text/html" />
     <published>2009-06-23T02:00:00+02:00</published>
     <updated>2009-06-23T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/augmenter-la-qualite-des-photos-sur-magento/</id>
+    <id>https://preview.narno.com/blog/augmenter-la-qualite-des-photos-sur-magento/</id>
     <title>Augmenter la qualité des photos sur Magento</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/augmenter-la-qualite-des-photos-sur-magento/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/augmenter-la-qualite-des-photos-sur-magento/" rel="alternate" type="text/html" />
     <published>2009-06-22T02:00:00+02:00</published>
     <updated>2009-06-22T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</id>
+    <id>https://preview.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</id>
     <title>Migration d'un forum phpBB2 vers phpBB3</title>
     <content type="html">
       <![CDATA[<p>Ça aura été pénible mais j'ai réussi à migrer le <a href="http://www.kobuta.fr/forum">forum phpBB de Kobuta.fr</a> !</p>
@@ -412,12 +412,12 @@ En effet, la plupart des anciennes plateformes à la phpBB étaient déployées 
 <p>Bref, quand j'y pense, sans ces soucis d'encodage et les temps de chargement/traitement, ça aurait été plié en quelques minutes...</p>
 <p>Le résultat ici : <a href="http://www.kobuta.fr/forum">http://www.kobuta.fr/forum</a> :-)</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/" rel="alternate" type="text/html" />
     <published>2009-03-09T01:00:00+01:00</published>
     <updated>2009-03-09T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/windows-update-desactiver-le-redemarrage-automatique/</id>
+    <id>https://preview.narno.com/blog/windows-update-desactiver-le-redemarrage-automatique/</id>
     <title>Windows Update : Désactiver le redémarrage automatique</title>
     <content type="html">
       <![CDATA[<p>Windows Update permet la mise à jour de Windows et de ses applications de manière automatique. Ce système est indispensable afin d'assurer la sécurité et la stabilité de l'OS.</p>
@@ -435,22 +435,22 @@ En effet, la plupart des anciennes plateformes à la phpBB étaient déployées 
 <p><img src="/images/strategie-groupe-windows-update.png" alt="" loading="lazy" /></p>
 <p>Et voilà, maintenant vous avez le choix ! :-)</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/windows-update-desactiver-le-redemarrage-automatique/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/windows-update-desactiver-le-redemarrage-automatique/" rel="alternate" type="text/html" />
     <published>2009-02-15T01:00:00+01:00</published>
     <updated>2009-02-15T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/magento-et-referencement-naturel-seo/</id>
+    <id>https://preview.narno.com/blog/magento-et-referencement-naturel-seo/</id>
     <title>Magento et référencement naturel (SEO)</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/magento-et-referencement-naturel-seo/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/magento-et-referencement-naturel-seo/" rel="alternate" type="text/html" />
     <published>2009-02-01T01:00:00+01:00</published>
     <updated>2009-02-01T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/seo-pour-drupal/</id>
+    <id>https://preview.narno.com/blog/seo-pour-drupal/</id>
     <title>SEO pour Drupal</title>
     <content type="html">
       <![CDATA[<p>Sortie de boite, Drupal est construit de manière à assurrer un bon référencement naturel. Il est nénamoins nécessaire d'utiliser un template bien structuré (via des zones de scrawl ordonnées) et d'appliquer quelques configurations et autre modules adaptés.</p>
@@ -523,12 +523,12 @@ Pour remédier à cela, il est conseillé de modifier le fichier <code>robots.tx
 <pre><code class="language-apache">RewriteCond %{HTTP_HOST} ^(www.)?narno\.com$ [NC]
 RewriteRule ^(.+)/$ http://%{HTTP_HOST}/$1 [R=301,L]</code></pre>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/seo-pour-drupal/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/seo-pour-drupal/" rel="alternate" type="text/html" />
     <published>2009-01-31T01:00:00+01:00</published>
     <updated>2009-01-31T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</id>
+    <id>https://preview.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/</id>
     <title>Picasa vers Flickr : importer vos photos simplement</title>
     <content type="html">
       <![CDATA[<p>J'utilise <a href="http://picasa.google.com/">Picasa</a> pour gérer mes albums photos : application propre et clair, système d'import depuis n'importe quel APN, navigation fluide et moteur de recherche made in Google.</p>
@@ -553,22 +553,22 @@ Non, car depuis la version 3 de Picasa, <a href="http://picasa2flickr.sourceforg
 </ol>
 <p>Depuis Picasa 3, l'opération s'est nettement simplifiée, alors n'hésitez plus ! :-)</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/picasa-vers-flickr-importer-vos-photos-simplement/" rel="alternate" type="text/html" />
     <published>2009-01-24T01:00:00+01:00</published>
     <updated>2009-01-24T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/barcamp-magento-a-paris/</id>
+    <id>https://preview.narno.com/blog/barcamp-magento-a-paris/</id>
     <title>Barcamp Magento à Paris</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/barcamp-magento-a-paris/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/barcamp-magento-a-paris/" rel="alternate" type="text/html" />
     <published>2009-01-11T01:00:00+01:00</published>
     <updated>2009-01-11T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/skin-drupal-pour-nintendo-ds-r4/</id>
+    <id>https://preview.narno.com/blog/skin-drupal-pour-nintendo-ds-r4/</id>
     <title>Skin Drupal pour Nintendo DS R4</title>
     <content type="html">
       <![CDATA[<p>J'ai récemment fais l'acquisition d'un <a href="http://www.r4ndsl.com/">R4</a> pour Nintendo DS. Egalement connu sous le nom de &quot;linker&quot;, cette cartouche spéciale permet de charger des ROMs via une Micro SD Card.</p>
@@ -577,12 +577,12 @@ Non, car depuis la version 3 de Picasa, <a href="http://picasa2flickr.sourceforg
 <p>Pour en revenir au sujet initiale, connaissant mon fanatisme pour <a href="http://drupal.org/">Drupal</a>, <a href="http://kobuta.fr/blog">Oni</a> a réalisé une skin aux couleurs de mon CMS chéri.
 Pour l'installer, il vous suffit de télécharger le fichier joint et de le décompresser dans le répertoire sytem de votre cartouche.</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/skin-drupal-pour-nintendo-ds-r4/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/skin-drupal-pour-nintendo-ds-r4/" rel="alternate" type="text/html" />
     <published>2008-11-08T01:00:00+01:00</published>
     <updated>2008-11-08T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/left-4-dead-pre-commande/</id>
+    <id>https://preview.narno.com/blog/left-4-dead-pre-commande/</id>
     <title>Left 4 Dead : pré-commande</title>
     <content type="html">
       <![CDATA[<p>Je viens de pré-commander <a href="http://store.steampowered.com/app/500/">Left 4 Dead</a> sur Steam cette semaine, afin de pouvoir jouer à la démo ce soir (avant la sortie prévu dans 10 jours).</p>
@@ -591,22 +591,22 @@ Pour l'installer, il vous suffit de télécharger le fichier joint et de le déc
 <p>Un peu de feedback quand j'aurai tester la bête, ça va saigner ! :-D
 Pour en savoir plus, rendez-vous sur la fiche de <a href="http://store.steampowered.com/app/500/">Left 4 Dead</a>.</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/left-4-dead-pre-commande/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/left-4-dead-pre-commande/" rel="alternate" type="text/html" />
     <published>2008-11-06T01:00:00+01:00</published>
     <updated>2008-11-06T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/magento-la-version-francaise-arrive/</id>
+    <id>https://preview.narno.com/blog/magento-la-version-francaise-arrive/</id>
     <title>Magento : la version française arrive !</title>
     <content type="html">
       <![CDATA[]]>
     </content>
-    <link href="https://drafts.narno.com/blog/magento-la-version-francaise-arrive/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/magento-la-version-francaise-arrive/" rel="alternate" type="text/html" />
     <published>2008-02-01T01:00:00+01:00</published>
     <updated>2008-02-01T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/wikio-vote-module-de-vote-pour-drupal/</id>
+    <id>https://preview.narno.com/blog/wikio-vote-module-de-vote-pour-drupal/</id>
     <title>Wikio vote : module de vote pour Drupal</title>
     <content type="html">
       <![CDATA[<p>Je viens de terminer la première release (de développement) de mon nouveau module pour Drupal : <em>Wikio vote</em>.</p>
@@ -615,12 +615,12 @@ Pour en savoir plus, rendez-vous sur la fiche de <a href="http://store.steampowe
 <p>Pour le téléchargement et les remarques, ça se passe ici : <a href="http://drupal.org/project/wikiovote"><strong>Wikio vote pour Drupal</strong></a></p>
 <p>Note : le bouton n'est visible qu'à partir du moment où votre article à été publié (contrainte de l'algo fourni par Wikio).</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/wikio-vote-module-de-vote-pour-drupal/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/wikio-vote-module-de-vote-pour-drupal/" rel="alternate" type="text/html" />
     <published>2008-01-13T01:00:00+01:00</published>
     <updated>2008-01-13T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</id>
+    <id>https://preview.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/</id>
     <title>Soltek QBic EQ3401 : le kit de survie</title>
     <content type="html">
       <![CDATA[<p>En faisant un peu de rangement dans <em>Mes Docmeunts</em>, j'ai retrouvé une archive de secours utile en cas de réinstallation de mon mini-pc : le <a href="https://web.archive.org/web/20051210155610/http://www.matbe.com/articles/lire/149/soltek-qbic-eq3401m-etudie-pour-le-silence/">Soltek QBic EQ3401</a>.</p>
@@ -637,12 +637,12 @@ Pour en savoir plus, rendez-vous sur la fiche de <a href="http://store.steampowe
 <li>VGA (865G-WIN2KXP)</li>
 </ul>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/soltek-qbic-eq3401-le-kit-de-survie/" rel="alternate" type="text/html" />
     <published>2008-01-02T01:00:00+01:00</published>
     <updated>2008-01-02T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/windows-update-je-te-hais/</id>
+    <id>https://preview.narno.com/blog/windows-update-je-te-hais/</id>
     <title>Windows Update : je te hais !</title>
     <content type="html">
       <![CDATA[<p>Qui n'a jamais pesté sur Windows Update ? En effet, non content d'installer plein de trucs et de machins sans vraiment les justifier, Windows Update à la facheuse tendance à nous casser les *ouilles tant qu'il n'a pas redémarrer Windows : &quot;a y est j'ai fini d'installer mes trucs, faut rebooter maintenant coco !&quot;. Et ça, à inetrvalle régulier, sous forme de boite de dialogue intrusive, jusqu'à ce que vous ayez cédé !</p>
@@ -650,12 +650,12 @@ Pour en savoir plus, rendez-vous sur la fiche de <a href="http://store.steampowe
 Et vas-y que je te pousse à bout jusqu'à ce que tu craque : bettement, en voulant cliquer sur un lien Web ou sur un bouton d'une application, voilà que cette saloperie de boite de dialogue réapparait et PAF ! directe sur le bouton &quot;Redémarrer maintenant&quot; ! N'espèrez pas avoir le temps de sauvegarder votre travail, c'est trop tard ! Autant Windows est lent à démarrer, autant il est furieusement rapide à s'éteindre dans ces cas là, bref...</p>
 <p>Je suis sur Windows XP Pro, j'espère que le problème ne s'est pas perpétué sur Vista...</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/windows-update-je-te-hais/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/windows-update-je-te-hais/" rel="alternate" type="text/html" />
     <published>2007-12-12T01:00:00+01:00</published>
     <updated>2007-12-12T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/paris-web-2007-jy-suis-passe/</id>
+    <id>https://preview.narno.com/blog/paris-web-2007-jy-suis-passe/</id>
     <title>Paris Web 2007 : j'y suis passé !</title>
     <content type="html">
       <![CDATA[<p>J'étais à <a href="https://www.paris-web.fr/2007/">Paris Web 2007</a> pour la journée &quot;libre&quot; : pas de conférences mais des ateliers.</p>
@@ -670,12 +670,12 @@ Si vous souhaitez en savoir beaucoup plus, je vous invite à lire la série d'ar
 <p>Note : <a href="https://www.paris-web.fr/2007/Presentations-des-intervenants.html">les présentations des intervenants de Paris Web 2007 sont en ligne</a>.</p>
 <p><em>Photo de <a href="https://www.flickr.com/photos/miaouss/2260346562/">Xuan NGUYEN</a>.</em></p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/paris-web-2007-jy-suis-passe/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/paris-web-2007-jy-suis-passe/" rel="alternate" type="text/html" />
     <published>2007-12-12T01:00:00+01:00</published>
     <updated>2007-12-12T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/afficher-votre-profil-ziki-sur-votre-blog-drupal/</id>
+    <id>https://preview.narno.com/blog/afficher-votre-profil-ziki-sur-votre-blog-drupal/</id>
     <title>Afficher votre profil Ziki sur votre blog Drupal</title>
     <content type="html">
       <![CDATA[<p>Mon nouveau module pour <a href="/tags/drupal">Drupal</a> est en chantier : <a href="http://drupal.org/project/ziki">Ziki (API)</a>.</p>
@@ -683,12 +683,12 @@ Si vous souhaitez en savoir beaucoup plus, je vous invite à lire la série d'ar
 <p>Cette première béta est fonctionnelle, mais ni optimisée (il manque l'intégration du cache Drupal, afin d'éviter un requètage systématique sur l'API Ziki), ni très fourni en options.</p>
 <p>En attendant, elle fonctionne et je vous invite donc à <a href="http://drupal.org/project/ziki">télécharger Ziki 5.x-1.0-beta</a> et à proposer des options supplémentaires! ;-)</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/afficher-votre-profil-ziki-sur-votre-blog-drupal/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/afficher-votre-profil-ziki-sur-votre-blog-drupal/" rel="alternate" type="text/html" />
     <published>2007-10-31T01:00:00+01:00</published>
     <updated>2007-10-31T01:00:00+01:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</id>
+    <id>https://preview.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</id>
     <title>eZ Publish 4.0 apporte le support PHP 5</title>
     <content type="html">
       <![CDATA[<blockquote>
@@ -700,12 +700,12 @@ Si vous souhaitez en savoir beaucoup plus, je vous invite à lire la série d'ar
 <p>Celà reste un bon point pour les agences qui pourront faire leurs développements spécifique en PHP5.</p>
 <p>D'autre part, l'amélioration des performances des &quot;components&quot; ne sera pas négligeable non plus.</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/" rel="alternate" type="text/html" />
     <published>2007-06-10T02:00:00+02:00</published>
     <updated>2007-06-10T02:00:00+02:00</updated>
   </entry>
   <entry xml:lang="en">
-    <id>https://drafts.narno.com/blog/soltek-eq3401-sp94-guide-montage/</id>
+    <id>https://preview.narno.com/blog/soltek-eq3401-sp94-guide-montage/</id>
     <title>Thermalright SP-94 dans un Soltek Qbic EQ3401</title>
     <content type="html">
       <![CDATA[<blockquote>
@@ -859,7 +859,7 @@ Maintenant que cette nouvelle méthode à été pensée, essayons de la mettre e
 <hr />
 <p>La <a href="https://web.archive.org/web/20061209111005/http://www.narno.com/rubriques/divers/minigaia/soltek-eq3401-sp94-guide-montage/">version originale</a> de ce guide à été créée par <a href="https://narno.com">Narno</a> le 10 juillet 2004.</p>]]>
     </content>
-    <link href="https://drafts.narno.com/blog/soltek-eq3401-sp94-guide-montage/" rel="alternate" type="text/html" />
+    <link href="https://preview.narno.com/blog/soltek-eq3401-sp94-guide-montage/" rel="alternate" type="text/html" />
     <published>2004-07-10T02:00:00+02:00</published>
     <updated>2004-07-10T02:00:00+02:00</updated>
   </entry>

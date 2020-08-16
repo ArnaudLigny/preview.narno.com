@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://preview.narno.com/tags/papa/</id>
   <title>Narno.com (preview) - Papa</title>
   <subtitle><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></subtitle>
@@ -10,12 +10,12 @@
     <name>Arnaud Ligny</name>
     <uri>https://arnaudligny.fr</uri>
   </author>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/bot-slack-rappel-enfant/</id>
     <title>Un bot pour ne plus oublier son enfant à l’école ! 😜</title>
     <content type="html">
       <![CDATA[<p>Il faudrait que je complète ce billet un jour !</p>
-<p><img src="/images/leo-bot-demo.png" alt="" loading="lazy" /></p>]]>
+<p><img src="/images/leo-bot-demo.png" alt="" width="513" loading="lazy" /></p>]]>
     </content>
     <link href="https://preview.narno.com/blog/bot-slack-rappel-enfant/" rel="alternate" type="text/html" />
     <published>2020-01-05T01:00:00+01:00</published>

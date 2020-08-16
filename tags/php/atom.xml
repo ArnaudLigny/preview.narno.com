@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://preview.narno.com/tags/php/</id>
   <title>Narno.com (preview) - PHP</title>
   <subtitle><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></subtitle>
@@ -10,7 +10,7 @@
     <name>Arnaud Ligny</name>
     <uri>https://arnaudligny.fr</uri>
   </author>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</id>
     <title>Migration d'un forum phpBB2 vers phpBB3</title>
     <content type="html">
@@ -67,7 +67,7 @@ En effet, la plupart des anciennes plateformes à la phpBB étaient déployées 
     <published>2009-03-09T01:00:00+01:00</published>
     <updated>2009-03-09T01:00:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</id>
     <title>eZ Publish 4.0 apporte le support PHP 5</title>
     <content type="html">

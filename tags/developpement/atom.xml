@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
   <id>https://preview.narno.com/tags/developpement/</id>
   <title>Narno.com (preview) - Développement</title>
   <subtitle><![CDATA[Narno.com est un weblog où je parle de développement web, de vélo et de jeu vidéo.]]></subtitle>
@@ -10,25 +10,25 @@
     <name>Arnaud Ligny</name>
     <uri>https://arnaudligny.fr</uri>
   </author>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/bot-slack-rappel-enfant/</id>
     <title>Un bot pour ne plus oublier son enfant à l’école ! 😜</title>
     <content type="html">
       <![CDATA[<p>Il faudrait que je complète ce billet un jour !</p>
-<p><img src="/images/leo-bot-demo.png" alt="" loading="lazy" /></p>]]>
+<p><img src="/images/leo-bot-demo.png" alt="" width="513" loading="lazy" /></p>]]>
     </content>
     <link href="https://preview.narno.com/blog/bot-slack-rappel-enfant/" rel="alternate" type="text/html" />
     <published>2020-01-05T01:00:00+01:00</published>
     <updated>2020-01-05T01:00:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/chrome-open-new-tab-after-current-tab/</id>
     <title>Chrome : ouvrir un nouvel onglet après l'onglet actif</title>
     <content type="html">
       <![CDATA[<p>Par défaut, Google Chrome ouvre un nouvel onglet à la fin de la rangée d'onglets : ce n'est pas toujours intuitif.</p>
 <p>Avec cette extension, un nouvel onglet ouvert avec le raccourci clavier (<kbd>⌘ Cmd</kbd>+<kbd>T</kbd>) ou avec le bouton &quot;plus&quot; sera ouvert juste après l'onglet actif.</p>
 <!-- break -->
-<p><a href="https://chrome.google.com/webstore/detail/open-new-tab-after-curren/mmcgnaachjapbbchcpjihhgjhpfcnoan"><img src="/images/Open-New-Tab-After-Current-Tab.gif" alt="Open New Tab After Current Tab : capture d&#039;écran animée" loading="lazy" /></a></p>
+<p><a href="https://chrome.google.com/webstore/detail/open-new-tab-after-curren/mmcgnaachjapbbchcpjihhgjhpfcnoan"><img src="/images/Open-New-Tab-After-Current-Tab.gif" alt="Open New Tab After Current Tab : capture d&#039;écran animée" width="600" loading="lazy" /></a></p>
 <blockquote>
 <p><a href="https://github.com/Narno/Open-New-Tab-After-Current-Tab#open-new-tab-after-current-tab"><strong><em>Open New Tab After Current Tab</em></strong></a> est disponible sur le <a href="https://chrome.google.com/webstore/detail/open-new-tab-after-curren/mmcgnaachjapbbchcpjihhgjhpfcnoan">Chrome Web Sore</a>, et son code source peut être consulté sur <a href="https://github.com/Narno/Open-New-Tab-After-Current-Tab">GitHub</a>.</p>
 </blockquote>]]>
@@ -37,14 +37,14 @@
     <published>2019-05-10T02:00:00+02:00</published>
     <updated>2019-05-10T02:00:00+02:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/facebook-notifier/</id>
     <title>Notificateur Facebook pour navigateur web</title>
     <content type="html">
       <![CDATA[<p>Je n'utilise quasiment plus Facebook, néanmoins je souhaite savoir ce qui s'y passe ou plutôt : <strong>je souhaite être notifié quand un amis ou un contact m'identifie sur une photo ou m'envoie un message</strong>.</p>
 <p>Ainsi, il y a quelques années, j'avais développé une extension pour navigateur web (tout d'abord pour Chrome, puis pour Firefox avec l'arrivée des <a href="https://developer.mozilla.org/fr/docs/Mozilla/Add-ons/WebExtensions">WebExtensions</a>).</p>
 <p>Le principe de <a href="https://github.com/Narno/F-Notifier#f-notifier"><strong><em>F-Notifier</em></strong></a> principe est très simple : une fois installée, celle-ci affiche un badge avec le nombre de notifications non lues, qu'il s'agisse d'une réponse à un publication ou d'un message de discussion instantanée.</p>
-<p><a href="https://github.com/Narno/F-Notifier#f-notifier"><img src="/images/F-Notifier-screenshot.png" alt="F-Notifier screenshot" loading="lazy" /></a></p>
+<p><a href="https://github.com/Narno/F-Notifier#f-notifier"><img src="/images/F-Notifier-screenshot.png" alt="F-Notifier screenshot" width="337" loading="lazy" /></a></p>
 <!-- break -->
 <blockquote>
 <p><a href="https://github.com/Narno/F-Notifier#f-notifier"><strong><em>F-Notifier</em></strong></a> est disponible à la fois pour <a href="https://chrome.google.com/webstore/detail/f-notifier/befpdcighpikpkklmfonkmdafmfnnkfn">Google Chrome</a> et pour <a href="https://addons.mozilla.org/fr/firefox/addon/f-notifier/">Mozilla Firefox</a>, et son code source peut être consulté sur <a href="https://github.com/Narno/F-Notifier">GitHub</a>.</p>
@@ -54,7 +54,7 @@
     <published>2019-05-06T02:00:00+02:00</published>
     <updated>2019-05-06T02:00:00+02:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/site-statique-mais-comment/</id>
     <title>Narno.com est un site Web statique : mais comment ?</title>
     <content type="html">
@@ -84,7 +84,7 @@
     <published>2017-10-25T02:00:00+02:00</published>
     <updated>2017-10-25T02:00:00+02:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/reboot-du-blog/</id>
     <title>Reboot du blog ?</title>
     <content type="html">
@@ -94,7 +94,7 @@
 </blockquote>
 <p>Ça faisait plusieurs mois (années ?!) que je me posais la question de quoi faire de mon vieux blog ? Il n'a d'ailleurs de blog que le nom puisqu'en réalité, je n'ai jamais vraiment beaucoup écrit dessus : Il m'a surtout servi de terrain d'expérimentation pour le développement Web.</p>
 <p>Aussi, dans l'optique de péréniser son (peu de) contenu et de me simplifier la maintenance, je l'ai migré vers un site statique : contenu dans des fichiers textes et mise en forme minimaliste !</p>
-<p><img src="/images/new-plan-static-site-first.jpg" alt="" loading="lazy" /></p>
+<p><img src="/images/new-plan-static-site-first.jpg" alt="" width="500" loading="lazy" /></p>
 <!-- excerpt -->
 <p>Maintenant, je n'ai plus à me tracasser de l'application des patchs de sécurité de <a href="/tags/drupal">Drupal</a>, ni du risque de perdre ou de corrompre la BDD MySQL.
 J'ai beaucoup aimé &quot;jouer&quot; avec <a href="/tags/drupal">Drupal</a>, mais il faut admettre qu'utiliser cette solution pour un petit blog, à peine dynamique, c'est d'avantage une contrainte qu'un outil.</p>
@@ -116,7 +116,7 @@ J'ai beaucoup aimé &quot;jouer&quot; avec <a href="/tags/drupal">Drupal</a>, ma
     <published>2017-01-08T18:33:00+01:00</published>
     <updated>2017-01-08T18:33:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/drupal-7-avis-et-retour-dexperience/</id>
     <title>Drupal 7 : avis et retour d'expérience</title>
     <content type="html">
@@ -143,7 +143,7 @@ J'espère qu'après avoir lu ces différents billets vous aurez envie d'essayer 
     <published>2010-10-02T02:00:00+02:00</published>
     <updated>2010-10-02T02:00:00+02:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/migration-dun-forum-phpbb2-vers-phpbb3/</id>
     <title>Migration d'un forum phpBB2 vers phpBB3</title>
     <content type="html">
@@ -200,7 +200,7 @@ En effet, la plupart des anciennes plateformes à la phpBB étaient déployées 
     <published>2009-03-09T01:00:00+01:00</published>
     <updated>2009-03-09T01:00:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/seo-pour-drupal/</id>
     <title>SEO pour Drupal</title>
     <content type="html">
@@ -278,7 +278,7 @@ RewriteRule ^(.+)/$ http://%{HTTP_HOST}/$1 [R=301,L]</code></pre>]]>
     <published>2009-01-31T01:00:00+01:00</published>
     <updated>2009-01-31T01:00:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/wikio-vote-module-de-vote-pour-drupal/</id>
     <title>Wikio vote : module de vote pour Drupal</title>
     <content type="html">
@@ -292,12 +292,12 @@ RewriteRule ^(.+)/$ http://%{HTTP_HOST}/$1 [R=301,L]</code></pre>]]>
     <published>2008-01-13T01:00:00+01:00</published>
     <updated>2008-01-13T01:00:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/paris-web-2007-jy-suis-passe/</id>
     <title>Paris Web 2007 : j'y suis passé !</title>
     <content type="html">
       <![CDATA[<p>J'étais à <a href="https://www.paris-web.fr/2007/">Paris Web 2007</a> pour la journée &quot;libre&quot; : pas de conférences mais des ateliers.</p>
-<p><img src="/images/photos/paris-web-2007.jpg" alt="" loading="lazy" /></p>
+<p><img src="/images/photos/paris-web-2007.jpg" alt="" width="500" loading="lazy" /></p>
 <p><strong>Ce que j'ai retenu :</strong></p>
 <ul>
 <li>l'accessibilité est encore le sujet chérie de cette année, et les mêmes problématiques se posent toujours encore et toujours : comment prendre en compte les normes (toute relatives, WCAG, RGEE, etc.) dans un métier dont le principal moteur est &quot;la vente vite bien fait, par ici la monnaie&quot;...</li>
@@ -312,7 +312,7 @@ Si vous souhaitez en savoir beaucoup plus, je vous invite à lire la série d'ar
     <published>2007-12-12T01:00:00+01:00</published>
     <updated>2007-12-12T01:00:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/afficher-votre-profil-ziki-sur-votre-blog-drupal/</id>
     <title>Afficher votre profil Ziki sur votre blog Drupal</title>
     <content type="html">
@@ -325,7 +325,7 @@ Si vous souhaitez en savoir beaucoup plus, je vous invite à lire la série d'ar
     <published>2007-10-31T01:00:00+01:00</published>
     <updated>2007-10-31T01:00:00+01:00</updated>
   </entry>
-  <entry xml:lang="en">
+  <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/ez-publish-4-0-apporte-le-support-php-5/</id>
     <title>eZ Publish 4.0 apporte le support PHP 5</title>
     <content type="html">

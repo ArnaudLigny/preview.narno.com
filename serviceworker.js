@@ -1,4 +1,4 @@
-var CACHE_VERSION = "1598405185";
+var CACHE_VERSION = "1598570016";
 var CACHE_NAME = 'narno.com-preview';
 var CACHE = CACHE_NAME + '-v' + CACHE_VERSION;
 
@@ -35,7 +35,7 @@ urlsToCache.push('/blog/site-statique-mais-comment/');
 urlsToCache.push('/blog/skin-drupal-pour-nintendo-ds-r4/');
 urlsToCache.push('/blog/soltek-eq3401-sp94-guide-montage/');
 urlsToCache.push('/blog/soltek-qbic-eq3401-le-kit-de-survie/');
-urlsToCache.push('/blog/velo-cargo-bullitt-retour-experience/');
+urlsToCache.push('/blog/velo-cargo-bullitt-partage-experience/');
 urlsToCache.push('/blog/velo-cargo-bullitt-ya-quoi-dans-le-carton/');
 urlsToCache.push('/blog/wikio-vote-module-de-vote-pour-drupal/');
 urlsToCache.push('/blog/windows-update-desactiver-le-redemarrage-automatique/');

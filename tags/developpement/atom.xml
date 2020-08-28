@@ -12,10 +12,24 @@
   </author>
   <entry xml:lang="fr">
     <id>https://preview.narno.com/blog/bot-slack-rappel-enfant/</id>
-    <title>Un bot pour ne plus oublier son enfant à l’école ! 😜</title>
+    <title>Un bot pour ne plus arriver en retard à l'école !</title>
     <content type="html">
-      <![CDATA[<p>Il faudrait que je complète ce billet un jour !</p>
-<p><img src="/images/leo-bot-demo.png" alt="" width="513" loading="lazy" /></p>]]>
+      <![CDATA[<blockquote>
+<p>Suite au confinement lié au <a href="https://fr.m.wikipedia.org/wiki/Pand%C3%A9mie_de_Covid-19_en_France">Covid-19</a> j'avais mis de côté ce billet, mais avec la rentrée scolaire qui approche, je pense qu'il est tend de le finaliser !</p>
+</blockquote>
+<p>Depuis quelques années j'utilise <a href="https://slack.com/intl/fr-fr/">Slack</a> dans mon travail, recevant des notifications (plus ou moins pertinentes) tout au long de la journée.</p>
+<p>Aussi, j'ai pensé que ce serait l'outil idéal pour me rappeler l'heure à laquelle quitter mon bureau pour arriver à l'heure à l'école de mon fils.</p>
+<p><img src="/images/leo-bot-demo.png" alt="" title="Capture d&#039;écran d&#039;une notification Slack" width="513" loading="lazy" /></p>
+<p>J'ai donc entrepris de réaliser un bot très simple, à l'aide de <a href="https://github.com/howdyai/botkit">Botkit</a>, qui me hélerait au moment du départ.</p>
+<!-- break -->
+<p>Pour fonctionner le bot à besoin de :</p>
+<ul>
+<li>un <em>token</em> autorisant l’interaction avec Slack</li>
+<li>un <a href="https://github.com/Narno/leo-bot/blob/master/.env.dist">fichier de configuration</a> afin d’indiquer le canal (<em>channel</em>) à notifier, ainsi que l'heure et la fréquence de rappel</li>
+<li>un worker (ex : <a href="https://www.heroku.com">Heroku</a>) pour dynamiser le tout</li>
+</ul>
+<p>Pour plus de détails sur la mise en œuvre (et l'accès à la documentation) je vous invite à consulter la page GitHub du projet : <a href="https://github.com/Narno/leo-bot">github.com/Narno/leo-bot</a>.</p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/Narno/leo-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy" /></a></p>]]>
     </content>
     <link href="https://preview.narno.com/blog/bot-slack-rappel-enfant/" rel="alternate" type="text/html" />
     <published>2020-01-05T01:00:00+01:00</published>

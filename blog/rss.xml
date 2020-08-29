@@ -170,31 +170,34 @@
       <link>https://preview.narno.com/blog/ans-de-velotaf/</link>
     </item>
     <item>
-      <guid>https://preview.narno.com/blog/site-statique-mais-comment/</guid>
-      <title>Narno.com est un site Web statique : mais comment ?</title>
-      <description><![CDATA[<p>Dans mon billet intitulé <a href="/blog/reboot-du-blog"><em>Reboot du blog</em></a> j'indiquais que <em>Narno.com</em> était maintenant un site statique : mais en pratique, comment ça marche ?</p>
+      <guid>https://preview.narno.com/blog/narno-com-site-web-statique/</guid>
+      <title>Narno.com est un site web statique</title>
+      <description><![CDATA[<p>Dans mon billet intitulé <a href="/blog/reboot-du-blog"><em>Reboot du blog ?</em></a> j'indiquais que <em>Narno.com</em> était maintenant un site statique : mais « statique », ça veut dire quoi ?</p>
+<p><img src="/images/ssg-host-flow.png" alt="" title="SSG host flow" width="1024" loading="lazy" />
+<em>Source du schéma : <a href="https://www.netlify.com/blog/2020/04/14/what-is-a-static-site-generator-and-3-ways-to-find-the-best-one/">What is a Static Site Generator?</a></em></p>
 <!-- break -->
-<h2>Qu'appelle-t-on un &quot;site statique&quot; ?</h2>
-<p>Un site Web peut-être qualifié de &quot;site statique&quot; quand il répond aux caractéristiques suivantes :</p>
+<h2>Qu'appelle-t-on un « site statique » ?</h2>
+<p>Un site web peut-être qualifié de statique quand il répond aux caractéristiques suivantes :</p>
 <ol>
-<li>il est généré à la demande lorsque le contenu (pages, billets de blog) ou le contenant (templates, feuilles de styles) est modifié.</li>
-<li>le site généré peut-être servi par un serveur Web, sans besoin d'interpréter un language de programmation côté serveur, ni de consommer une base de données.</li>
+<li>il est (re)généré à la demande lorsque le contenu (pages, billets de blog, etc.) ou la mise en forme (templates, feuilles de styles) est modifiée.</li>
+<li>le site généré peut-être servi par un <a href="https://fr.m.wikipedia.org/wiki/Serveur_web">serveur web</a> sans être interprété par un langage de programmation, ni être dépendant d’une base de données.</li>
 </ol>
-<p>Ainsi, pour <em>Narno.com</em> j'ai utilisé <a href="https://phpoole.org">PHPoole</a> (la solution que je code avec mes p'tites mains depuis quelques années, en fonction de mes besoins) pour générer le site.</p>
 <h2>Comment ça marche ?</h2>
 <h3>Le principe</h3>
-<p>Il est très simple, j'ai :</p>
+<p>Le principe est très simple : les contenus texte (au format <a href="https://fr.m.wikipedia.org/wiki/Markdown">Markdown</a>) sont fusionnés avec la mise en forme (templates <a href="https://twig.symfony.com/doc/templates.html">Twig</a> et <a href="https://fr.m.wikipedia.org/wiki/Feuilles_de_style_en_cascade">feuilles de style</a>) pour créer un site web.</p>
+<h3>En pratique</h3>
+<p><em>Narno.com</em> s’appuie sur :</p>
 <ol>
-<li>utilisé un thème clef en main (à savoir l'excellent <a href="https://github.com/poole/lanyon">Lanyon</a> créé par <a href="https://github.com/mdo">Mark Otto</a>)</li>
-<li>j'y ai ajouté quelques variables afin de le personnaliser (nom, description, menu, etc.)</li>
-<li>j'ai converti les anciens billets en fichiers [Markdown]()</li>
-<li>j'ai fusionné le tout avec <a href="https://phpoole.org">PHPoole</a> ! :smile:</li>
+<li>un thème clef en main (l'excellent <a href="https://github.com/poole/lanyon">Lanyon</a> créé par <a href="https://github.com/mdo">Mark Otto</a>)</li>
+<li>quelques variables de configuration (nom, description, menu, etc.)</li>
+<li>les billets de blog (historiquement stockés dans la BDD Drupal) convertis en fichiers au format <a href="https://fr.m.wikipedia.org/wiki/Markdown">Markdown</a></li>
+<li>mon générateur de site statique : <a href="https://cecil.app">Cecil</a></li>
 </ol>
-<h3>La pratique</h3>
-<p>Entrons maintenant dans le détail de la mise en oeuvre, les outils, les scripts, etc.</p>
-<h4>Le thème / les templates</h4>]]></description>
+<p>De plus, afin d’automatiser le processus, j’utilise un outil d’intégration continue (<a href="https://github.com/lambci/lambci">LambCI</a>) qui déclenche la (re)génération dès que le contenu est modifié sur le <a href="https://github.com/Narno/narno.com">dépôt GitHub</a> (ex : <a href="https://lambci-buildresults-1w0y4nab0105t.s3.amazonaws.com/gh/Narno/narno.com/builds/676/536b49b7fde5e134fb6b919d503601f6.html">Build #676</a>).</p>
+<p>Le site ainsi généré est ensuite déployé sur <a href="https://github.com/Narno/narno.com/deployments/activity_log?environment=github-pages">GitHub Pages</a> et disponible via le domaine narno.com.</p>
+<p>Simple, efficace, facile à maintenir et à maintenir ! 😊</p>]]></description>
       <pubDate>2017-10-25T02:00:00+02:00</pubDate>
-      <link>https://preview.narno.com/blog/site-statique-mais-comment/</link>
+      <link>https://preview.narno.com/blog/narno-com-site-web-statique/</link>
     </item>
     <item>
       <guid>https://preview.narno.com/blog/pourquoi-ne-pas-juste-dire-merci/</guid>

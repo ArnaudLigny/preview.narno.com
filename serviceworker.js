@@ -1,4 +1,4 @@
-var CACHE_VERSION = "1598656839";
+var CACHE_VERSION = "1598743586";
 var CACHE_NAME = 'narno.com-preview';
 var CACHE = CACHE_NAME + '-v' + CACHE_VERSION;
 
@@ -20,6 +20,7 @@ urlsToCache.push('/blog/lassee-des-incivilites-la-velosphere-se-rebiffe/');
 urlsToCache.push('/blog/left-4-dead-pre-commande/');
 urlsToCache.push('/blog/leo-est-ne/');
 urlsToCache.push('/blog/migration-dun-forum-phpbb2-vers-phpbb3/');
+urlsToCache.push('/blog/narno-com-site-web-statique/');
 urlsToCache.push('/blog/page/2/');
 urlsToCache.push('/blog/page/3/');
 urlsToCache.push('/blog/page/4/');
@@ -31,7 +32,6 @@ urlsToCache.push('/blog/picasa-vers-flickr-importer-vos-photos-simplement/');
 urlsToCache.push('/blog/pourquoi-ne-pas-juste-dire-merci/');
 urlsToCache.push('/blog/reboot-du-blog/');
 urlsToCache.push('/blog/seo-pour-drupal/');
-urlsToCache.push('/blog/site-statique-mais-comment/');
 urlsToCache.push('/blog/skin-drupal-pour-nintendo-ds-r4/');
 urlsToCache.push('/blog/soltek-eq3401-sp94-guide-montage/');
 urlsToCache.push('/blog/soltek-qbic-eq3401-le-kit-de-survie/');

@@ -1,4 +1,4 @@
-var CACHE_VERSION = "1598743931";
+var CACHE_VERSION = "1605120211";
 var CACHE_NAME = 'narno.com-preview';
 var CACHE = CACHE_NAME + '-v' + CACHE_VERSION;
 
@@ -12,6 +12,7 @@ urlsToCache.push('/blog/afficher-votre-profil-ziki-sur-votre-blog-drupal/');
 urlsToCache.push('/blog/ans-de-velotaf/');
 urlsToCache.push('/blog/bot-slack-rappel-enfant/');
 urlsToCache.push('/blog/chrome-open-new-tab-after-current-tab/');
+urlsToCache.push('/blog/comment-bloquer-pub-twitch-ublock/');
 urlsToCache.push('/blog/drupal-7-avis-et-retour-dexperience/');
 urlsToCache.push('/blog/ez-publish-4-0-apporte-le-support-php-5/');
 urlsToCache.push('/blog/facebook-notifier/');
@@ -27,6 +28,7 @@ urlsToCache.push('/blog/page/4/');
 urlsToCache.push('/blog/page/5/');
 urlsToCache.push('/blog/page/6/');
 urlsToCache.push('/blog/page/7/');
+urlsToCache.push('/blog/page/8/');
 urlsToCache.push('/blog/paris-web-2007-jy-suis-passe/');
 urlsToCache.push('/blog/picasa-vers-flickr-importer-vos-photos-simplement/');
 urlsToCache.push('/blog/pourquoi-ne-pas-juste-dire-merci/');
@@ -45,7 +47,6 @@ urlsToCache.push('/galeries/');
 urlsToCache.push('/galeries/soltek-eq3401-sp94-guide-montage/');
 urlsToCache.push('/manifest.webmanifest');
 urlsToCache.push('/mes-velos/');
-urlsToCache.push('/page/10/');
 urlsToCache.push('/page/2/');
 urlsToCache.push('/page/3/');
 urlsToCache.push('/page/4/');
@@ -53,12 +54,12 @@ urlsToCache.push('/page/5/');
 urlsToCache.push('/page/6/');
 urlsToCache.push('/page/7/');
 urlsToCache.push('/page/8/');
-urlsToCache.push('/page/9/');
 urlsToCache.push('/robots.txt');
 urlsToCache.push('/serviceworker.js');
 urlsToCache.push('/sitemap.xml');
 urlsToCache.push('/tags/');
 urlsToCache.push('/tags/accessibilite/');
+urlsToCache.push('/tags/astuce/');
 urlsToCache.push('/tags/bullitt/');
 urlsToCache.push('/tags/cycliste-urbain/');
 urlsToCache.push('/tags/developpement/');
@@ -133,6 +134,18 @@ self.addEventListener('fetch', function(event) {
   }
   // ignore Cecil's watcher
   if (url.pathname == '/watcher') {
+    return;
+  }
+  // ignore some paths
+  try {
+    PATH_TO_IGNORE.forEach(function (path) {
+      console.log(url.pathname);
+      if (url.pathname.indexOf(path) > -1) {
+        console.log('should ignore');
+        throw Exception;
+      }
+    });
+  } catch (e) {
     return;
   }
   event.respondWith(

@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://preview.narno.com/tags/bullitt/</loc>
-    <lastmod>2020-07-01</lastmod>
+    <loc>https://preview.narno.com/blog/comment-bloquer-pub-twitch-ublock/</loc>
+    <lastmod>2020-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://preview.narno.com/blog/velo-cargo-bullitt-partage-experience/</loc>
-    <lastmod>2020-07-01</lastmod>
+    <lastmod>2020-08-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://preview.narno.com/tags/bullitt/</loc>
+    <lastmod>2020-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -49,13 +55,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://preview.narno.com/tags/cycliste-urbain/</loc>
+    <loc>https://preview.narno.com/blog/ans-de-velotaf/</loc>
     <lastmod>2019-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://preview.narno.com/blog/ans-de-velotaf/</loc>
+    <loc>https://preview.narno.com/tags/cycliste-urbain/</loc>
     <lastmod>2019-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -1,4 +1,4 @@
-var CACHE_VERSION = "1605120211";
+var CACHE_VERSION = "1626916328";
 var CACHE_NAME = 'narno.com-preview';
 var CACHE = CACHE_NAME + '-v' + CACHE_VERSION;
 
@@ -21,6 +21,7 @@ urlsToCache.push('/blog/lassee-des-incivilites-la-velosphere-se-rebiffe/');
 urlsToCache.push('/blog/left-4-dead-pre-commande/');
 urlsToCache.push('/blog/leo-est-ne/');
 urlsToCache.push('/blog/migration-dun-forum-phpbb2-vers-phpbb3/');
+urlsToCache.push('/blog/montreuil-saint-malo-a-velo/');
 urlsToCache.push('/blog/narno-com-site-web-statique/');
 urlsToCache.push('/blog/page/2/');
 urlsToCache.push('/blog/page/3/');
@@ -54,6 +55,7 @@ urlsToCache.push('/page/5/');
 urlsToCache.push('/page/6/');
 urlsToCache.push('/page/7/');
 urlsToCache.push('/page/8/');
+urlsToCache.push('/page/9/');
 urlsToCache.push('/robots.txt');
 urlsToCache.push('/serviceworker.js');
 urlsToCache.push('/sitemap.xml');
@@ -79,7 +81,11 @@ urlsToCache.push('/tags/photos/');
 urlsToCache.push('/tags/php/');
 urlsToCache.push('/tags/seo/');
 urlsToCache.push('/tags/ssg/');
+urlsToCache.push('/tags/twitch/');
+urlsToCache.push('/tags/ublock/');
+urlsToCache.push('/tags/vacances/');
 urlsToCache.push('/tags/velo/');
+urlsToCache.push('/tags/velo/page/2/');
 urlsToCache.push('/tags/windows/');
 // pre-cache files
 urlsToCache.push('/icon.png');
@@ -139,9 +145,7 @@ self.addEventListener('fetch', function(event) {
   // ignore some paths
   try {
     PATH_TO_IGNORE.forEach(function (path) {
-      console.log(url.pathname);
       if (url.pathname.indexOf(path) > -1) {
-        console.log('should ignore');
         throw Exception;
       }
     });

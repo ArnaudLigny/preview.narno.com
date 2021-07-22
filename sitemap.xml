@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://preview.narno.com/blog/montreuil-saint-malo-a-velo/</loc>
+    <loc>https://preview.narno.com/tags/velo/</loc>
     <lastmod>2021-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://preview.narno.com/tags/velo/</loc>
+    <loc>https://preview.narno.com/blog/montreuil-saint-malo-a-velo/</loc>
     <lastmod>2021-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -63,12 +63,6 @@
   <url>
     <loc>https://preview.narno.com/config-pc/</loc>
     <lastmod>2019-03-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://preview.narno.com/tags/cycliste-urbain/</loc>
-    <lastmod>2019-01-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -253,13 +247,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://preview.narno.com/blog/soltek-eq3401-sp94-guide-montage/</loc>
+    <loc>https://preview.narno.com/galeries/soltek-eq3401-sp94-guide-montage/</loc>
     <lastmod>2004-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://preview.narno.com/galeries/soltek-eq3401-sp94-guide-montage/</loc>
+    <loc>https://preview.narno.com/blog/soltek-eq3401-sp94-guide-montage/</loc>
     <lastmod>2004-07-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

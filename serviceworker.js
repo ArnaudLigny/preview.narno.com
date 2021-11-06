@@ -1,6 +1,7 @@
-var CACHE_VERSION = "1626917280";
+var CACHE_VERSION = "1636164565";
 var CACHE_NAME = 'narno.com-preview';
 var CACHE = CACHE_NAME + '-v' + CACHE_VERSION;
+var PATH_TO_IGNORE = [];
 
 // pre-cache pages
 var urlsToCache = [];
@@ -89,10 +90,6 @@ urlsToCache.push('/tags/velo/page/2/');
 urlsToCache.push('/tags/windows/');
 // pre-cache files
 urlsToCache.push('/icon.png');
-urlsToCache.push('/css/poole.css');
-urlsToCache.push('/css/syntax.css');
-urlsToCache.push('/css/lanyon.css');
-urlsToCache.push('/css/narno.com.css');
 
 // install service worker
 self.addEventListener('install', function(event) {
@@ -117,7 +114,6 @@ self.addEventListener('activate', function(event) {
       return Promise.all(keyList.map(function(key) {
         // new version?
         if (key !== CACHE) {
-          // notification
           // flush cache
           console.log(`[SW] Remove old cache '${key}'`);
           return caches.delete(key);
@@ -150,6 +146,7 @@ self.addEventListener('fetch', function(event) {
       }
     });
   } catch (e) {
+    console.log('[SW] ' + e.message);
     return;
   }
   event.respondWith(
